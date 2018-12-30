@@ -7,15 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F1425541F07DAB500BF3088 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F1425531F07DAB500BF3088 /* WebViewController.m */; };
+		3FFB9CCC1F0778E900BD57B7 /* BollyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFB9CCB1F0778E900BD57B7 /* BollyTableViewCell.m */; };
+		3FFB9CCF1F07791500BD57B7 /* CricketTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFB9CCE1F07791500BD57B7 /* CricketTableViewCell.m */; };
+		3FFB9CD51F077E5F00BD57B7 /* Allu Arjun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CD11F077E5F00BD57B7 /* Allu Arjun.jpg */; };
+		3FFB9CD61F077E5F00BD57B7 /* maheshBabu.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CD21F077E5F00BD57B7 /* maheshBabu.jpeg */; };
+		3FFB9CD71F077E5F00BD57B7 /* nani.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CD31F077E5F00BD57B7 /* nani.jpg */; };
+		3FFB9CD81F077E5F00BD57B7 /* Pawan2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CD41F077E5F00BD57B7 /* Pawan2.jpeg */; };
+		3FFB9CDE1F077ED800BD57B7 /* aamir.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CDA1F077ED800BD57B7 /* aamir.jpg */; };
+		3FFB9CDF1F077ED800BD57B7 /* Hrithik-Roshan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CDB1F077ED800BD57B7 /* Hrithik-Roshan.jpg */; };
+		3FFB9CE01F077ED800BD57B7 /* john-abraham.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CDC1F077ED800BD57B7 /* john-abraham.png */; };
+		3FFB9CE11F077ED800BD57B7 /* salman-khan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CDD1F077ED800BD57B7 /* salman-khan.jpg */; };
+		3FFB9CE71F077EEA00BD57B7 /* Dhoni.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CE31F077EEA00BD57B7 /* Dhoni.jpeg */; };
+		3FFB9CE81F077EEA00BD57B7 /* jadhav.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CE41F077EEA00BD57B7 /* jadhav.jpg */; };
+		3FFB9CE91F077EEA00BD57B7 /* Virat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CE51F077EEA00BD57B7 /* Virat.jpeg */; };
+		3FFB9CEA1F077EEA00BD57B7 /* yuvi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9CE61F077EEA00BD57B7 /* yuvi.jpeg */; };
 		3FFCB81B1F075ED100E592B1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCB81A1F075ED100E592B1 /* main.m */; };
 		3FFCB81E1F075ED100E592B1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCB81D1F075ED100E592B1 /* AppDelegate.m */; };
 		3FFCB8211F075ED100E592B1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCB8201F075ED100E592B1 /* ViewController.m */; };
 		3FFCB8241F075ED100E592B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FFCB8221F075ED100E592B1 /* Main.storyboard */; };
 		3FFCB8261F075ED100E592B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFCB8251F075ED100E592B1 /* Assets.xcassets */; };
 		3FFCB8291F075ED100E592B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FFCB8271F075ED100E592B1 /* LaunchScreen.storyboard */; };
+		3FFCB8321F0766A600E592B1 /* MYTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCB8311F0766A600E592B1 /* MYTableViewController.m */; };
+		3FFCB8351F07673C00E592B1 /* TollyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCB8341F07673C00E592B1 /* TollyTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F1425521F07DAB500BF3088 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		3F1425531F07DAB500BF3088 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		3FFB9CCA1F0778E900BD57B7 /* BollyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BollyTableViewCell.h; sourceTree = "<group>"; };
+		3FFB9CCB1F0778E900BD57B7 /* BollyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BollyTableViewCell.m; sourceTree = "<group>"; };
+		3FFB9CCD1F07791500BD57B7 /* CricketTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CricketTableViewCell.h; sourceTree = "<group>"; };
+		3FFB9CCE1F07791500BD57B7 /* CricketTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CricketTableViewCell.m; sourceTree = "<group>"; };
+		3FFB9CD11F077E5F00BD57B7 /* Allu Arjun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Allu Arjun.jpg"; sourceTree = "<group>"; };
+		3FFB9CD21F077E5F00BD57B7 /* maheshBabu.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maheshBabu.jpeg; sourceTree = "<group>"; };
+		3FFB9CD31F077E5F00BD57B7 /* nani.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nani.jpg; sourceTree = "<group>"; };
+		3FFB9CD41F077E5F00BD57B7 /* Pawan2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Pawan2.jpeg; sourceTree = "<group>"; };
+		3FFB9CDA1F077ED800BD57B7 /* aamir.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aamir.jpg; sourceTree = "<group>"; };
+		3FFB9CDB1F077ED800BD57B7 /* Hrithik-Roshan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Hrithik-Roshan.jpg"; sourceTree = "<group>"; };
+		3FFB9CDC1F077ED800BD57B7 /* john-abraham.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "john-abraham.png"; sourceTree = "<group>"; };
+		3FFB9CDD1F077ED800BD57B7 /* salman-khan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "salman-khan.jpg"; sourceTree = "<group>"; };
+		3FFB9CE31F077EEA00BD57B7 /* Dhoni.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Dhoni.jpeg; sourceTree = "<group>"; };
+		3FFB9CE41F077EEA00BD57B7 /* jadhav.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jadhav.jpg; sourceTree = "<group>"; };
+		3FFB9CE51F077EEA00BD57B7 /* Virat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Virat.jpeg; sourceTree = "<group>"; };
+		3FFB9CE61F077EEA00BD57B7 /* yuvi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yuvi.jpeg; sourceTree = "<group>"; };
 		3FFCB8161F075ED100E592B1 /* MYTableViewCRUD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MYTableViewCRUD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFCB81A1F075ED100E592B1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3FFCB81C1F075ED100E592B1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +61,10 @@
 		3FFCB8251F075ED100E592B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FFCB8281F075ED100E592B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FFCB82A1F075ED100E592B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FFCB8301F0766A600E592B1 /* MYTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYTableViewController.h; sourceTree = "<group>"; };
+		3FFCB8311F0766A600E592B1 /* MYTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYTableViewController.m; sourceTree = "<group>"; };
+		3FFCB8331F07673C00E592B1 /* TollyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TollyTableViewCell.h; sourceTree = "<group>"; };
+		3FFCB8341F07673C00E592B1 /* TollyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TollyTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +78,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3FFB9CD01F077E5F00BD57B7 /* TWImages */ = {
+			isa = PBXGroup;
+			children = (
+				3FFB9CD11F077E5F00BD57B7 /* Allu Arjun.jpg */,
+				3FFB9CD21F077E5F00BD57B7 /* maheshBabu.jpeg */,
+				3FFB9CD31F077E5F00BD57B7 /* nani.jpg */,
+				3FFB9CD41F077E5F00BD57B7 /* Pawan2.jpeg */,
+			);
+			path = TWImages;
+			sourceTree = "<group>";
+		};
+		3FFB9CD91F077ED800BD57B7 /* BWImages */ = {
+			isa = PBXGroup;
+			children = (
+				3FFB9CDA1F077ED800BD57B7 /* aamir.jpg */,
+				3FFB9CDB1F077ED800BD57B7 /* Hrithik-Roshan.jpg */,
+				3FFB9CDC1F077ED800BD57B7 /* john-abraham.png */,
+				3FFB9CDD1F077ED800BD57B7 /* salman-khan.jpg */,
+			);
+			path = BWImages;
+			sourceTree = "<group>";
+		};
+		3FFB9CE21F077EEA00BD57B7 /* Cricket */ = {
+			isa = PBXGroup;
+			children = (
+				3FFB9CE31F077EEA00BD57B7 /* Dhoni.jpeg */,
+				3FFB9CE41F077EEA00BD57B7 /* jadhav.jpg */,
+				3FFB9CE51F077EEA00BD57B7 /* Virat.jpeg */,
+				3FFB9CE61F077EEA00BD57B7 /* yuvi.jpeg */,
+			);
+			path = Cricket;
+			sourceTree = "<group>";
+		};
 		3FFCB80D1F075ED100E592B1 = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +130,9 @@
 		3FFCB8181F075ED100E592B1 /* MYTableViewCRUD */ = {
 			isa = PBXGroup;
 			children = (
+				3FFB9CD01F077E5F00BD57B7 /* TWImages */,
+				3FFB9CD91F077ED800BD57B7 /* BWImages */,
+				3FFB9CE21F077EEA00BD57B7 /* Cricket */,
 				3FFCB81C1F075ED100E592B1 /* AppDelegate.h */,
 				3FFCB81D1F075ED100E592B1 /* AppDelegate.m */,
 				3FFCB81F1F075ED100E592B1 /* ViewController.h */,
@@ -67,6 +142,16 @@
 				3FFCB8271F075ED100E592B1 /* LaunchScreen.storyboard */,
 				3FFCB82A1F075ED100E592B1 /* Info.plist */,
 				3FFCB8191F075ED100E592B1 /* Supporting Files */,
+				3FFCB8301F0766A600E592B1 /* MYTableViewController.h */,
+				3FFCB8311F0766A600E592B1 /* MYTableViewController.m */,
+				3FFCB8331F07673C00E592B1 /* TollyTableViewCell.h */,
+				3FFCB8341F07673C00E592B1 /* TollyTableViewCell.m */,
+				3FFB9CCA1F0778E900BD57B7 /* BollyTableViewCell.h */,
+				3FFB9CCB1F0778E900BD57B7 /* BollyTableViewCell.m */,
+				3FFB9CCD1F07791500BD57B7 /* CricketTableViewCell.h */,
+				3FFB9CCE1F07791500BD57B7 /* CricketTableViewCell.m */,
+				3F1425521F07DAB500BF3088 /* WebViewController.h */,
+				3F1425531F07DAB500BF3088 /* WebViewController.m */,
 			);
 			path = MYTableViewCRUD;
 			sourceTree = "<group>";
@@ -137,9 +222,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FFB9CD61F077E5F00BD57B7 /* maheshBabu.jpeg in Resources */,
+				3FFB9CD71F077E5F00BD57B7 /* nani.jpg in Resources */,
+				3FFB9CDE1F077ED800BD57B7 /* aamir.jpg in Resources */,
+				3FFB9CE11F077ED800BD57B7 /* salman-khan.jpg in Resources */,
+				3FFB9CE71F077EEA00BD57B7 /* Dhoni.jpeg in Resources */,
+				3FFB9CE81F077EEA00BD57B7 /* jadhav.jpg in Resources */,
+				3FFB9CE01F077ED800BD57B7 /* john-abraham.png in Resources */,
 				3FFCB8291F075ED100E592B1 /* LaunchScreen.storyboard in Resources */,
+				3FFB9CDF1F077ED800BD57B7 /* Hrithik-Roshan.jpg in Resources */,
+				3FFB9CEA1F077EEA00BD57B7 /* yuvi.jpeg in Resources */,
 				3FFCB8261F075ED100E592B1 /* Assets.xcassets in Resources */,
+				3FFB9CD81F077E5F00BD57B7 /* Pawan2.jpeg in Resources */,
 				3FFCB8241F075ED100E592B1 /* Main.storyboard in Resources */,
+				3FFB9CE91F077EEA00BD57B7 /* Virat.jpeg in Resources */,
+				3FFB9CD51F077E5F00BD57B7 /* Allu Arjun.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,7 +249,12 @@
 			files = (
 				3FFCB8211F075ED100E592B1 /* ViewController.m in Sources */,
 				3FFCB81E1F075ED100E592B1 /* AppDelegate.m in Sources */,
+				3FFB9CCC1F0778E900BD57B7 /* BollyTableViewCell.m in Sources */,
+				3F1425541F07DAB500BF3088 /* WebViewController.m in Sources */,
+				3FFCB8351F07673C00E592B1 /* TollyTableViewCell.m in Sources */,
 				3FFCB81B1F075ED100E592B1 /* main.m in Sources */,
+				3FFCB8321F0766A600E592B1 /* MYTableViewController.m in Sources */,
+				3FFB9CCF1F07791500BD57B7 /* CricketTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,7 +374,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MYTableViewCRUD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = brn.MYTableViewCRUD;
+				PRODUCT_BUNDLE_IDENTIFIER = pp.MYTableViewCRUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -283,7 +385,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MYTableViewCRUD/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = brn.MYTableViewCRUD;
+				PRODUCT_BUNDLE_IDENTIFIER = pp.MYTableViewCRUD;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -307,6 +409,7 @@
 				3FFCB82F1F075ED100E592B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
